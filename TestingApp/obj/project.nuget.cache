@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mWQJW1QqamSGN796wxWbmJxUClE6qFMPWxTi4phVS27fVzcbxKVdJl2CQ/dpMNg9yRI3UTDtpNfIH+hWO+1PFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\UnitTestingProject\\TestingApp\\TestingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
